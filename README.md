@@ -348,7 +348,7 @@ The Lambda expects this JSON in each SQS message body (published by `spring-orde
 
 | Repository | Description |
 |---|---|
-| [spring-order-service](https://github.com/your-username/spring-order-service) | Spring Boot REST API that publishes order events to SQS |
+| [spring-order-service](https://github.com/voorevamshi/spring-order-service) | Spring Boot REST API that publishes order events to SQS |
 
 ---
 
