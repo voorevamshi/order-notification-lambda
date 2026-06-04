@@ -2,7 +2,7 @@
 
 An AWS Lambda function written in **Java 21** that listens to an **AWS SQS** queue and sends **Email (SES)** + **SMS (SNS)** notifications to customers when an order is placed.
 
-Triggered by [spring-order-service](https://github.com/your-username/spring-order-service) — which publishes an order event to SQS after saving the order to the database.
+Triggered by [spring-order-service](https://github.com/voorevamshi/spring-order-service) — which publishes an order event to SQS after saving the order to the database.
 
 ---
 
